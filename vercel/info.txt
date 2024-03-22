@@ -1,0 +1,2 @@
+there is no way to upload a directory to aws-sdk so we need to create an array of all the files in directory and then upload to s3
+changin file path bcz windows uses \\ abd mac uses /
